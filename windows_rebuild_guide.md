@@ -51,6 +51,8 @@ git config --global credential.helper cache
 ```
 
 ## Setup SSH Keys
+📔 *Note: if using a private repo, you must have a password on your SSH key*
+
 - create a new SSH key: ```ssh-keygen -t ed25519 -C "hoov85@gmail.com"```
 - add it to GitHub
 
