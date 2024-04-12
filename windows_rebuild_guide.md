@@ -21,6 +21,7 @@ These are the steps that I take when I reformat/rebuild my Windows desktop compu
 ## Re-Install Software
 - Chrome
 - VS Code
+- Windows Terminal
 - Notepad++
 - Google Messages
 - FB Messenger
