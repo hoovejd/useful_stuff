@@ -18,6 +18,12 @@ These are the steps that I take when I reformat/rebuild my Windows desktop compu
 ## Install Fresh Windows
 - boot Windows Media thumb drive
 
+## Install Graphics Drivers
+- Radeon RX 570
+
+## Windows Update
+- Perform all windows updates
+
 ## Re-Install Software
 - Chrome
 - VS Code
