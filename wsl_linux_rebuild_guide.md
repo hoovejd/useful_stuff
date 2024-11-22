@@ -4,9 +4,14 @@ You have the option to install Java and Maven from the official Ubuntu repositor
 
 # Install Java using APT
 - perform search of available java JDK: `apt-cache search openjdk`
+- `apt install openjdk-##`
 
 # Install Maven using APT
-`sudo apt-get install maven`
+`sudo apt install maven`
+
+# Update Alternatives
+You can run this for Maven (mvn) or Java
+`sudo update-alternatives --config mvn`
 
 # Set Java Home
 1. sudo vim **/etc/environment**
