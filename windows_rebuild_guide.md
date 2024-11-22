@@ -44,6 +44,7 @@ These are the steps that I take when I reformat/rebuild my Windows desktop compu
 - Adobe Reader
 - 7zip
 - Putty
+- Docker Desktop
 
 ## Enable WSL
 
@@ -66,4 +67,3 @@ git config --global credential.helper cache
 ## Setup VS Code
 
 ## Setup Putty
-
